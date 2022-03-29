@@ -7,4 +7,4 @@
 wsfwfwfwwf padrao texto 
 
 
-click [aqui] [https://github.com/BrunoSSDS] para acessar meu usuario 
+click [aqui](https://github.com/BrunoSSDS) para acessar meu usuario 
